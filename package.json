@@ -1,6 +1,6 @@
 {
 	"name": "jsdx-power",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Power API on JSDX framework",
 	"keywords": [
 		"jsdx",
@@ -11,7 +11,7 @@
 	"author": {
 		"name": "Fred Chien(錢逢祥)",
 		"email": "cfsghost@gmail.com",
-		"web": "http://people.linux.org.tw/~fred/"
+		"web": "http://www.mandice.com/"
 	},
 	"license": "MIT",
 	"repository": {
