@@ -1,4 +1,6 @@
 jsdx-power
 ==========
 
-Power Manager API for JSDX Framework
+Power Manager API for JSDX Framework.
+
+
