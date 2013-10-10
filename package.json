@@ -1,6 +1,6 @@
 {
 	"name": "jsdx-power",
-	"version": "0.0.2",
+	"version": "0.2.0",
 	"description": "Power API on JSDX framework",
 	"keywords": [
 		"jsdx",
@@ -22,10 +22,10 @@
 		"tests": "tests"
 	},
 	"engines": {
-		"node": ">= 0.4.0"
+		"node": ">= 0.8.0"
 	},
 	"dependencies": {
-		"dbus": ">= 0.0.4"
+		"dbus": ">= 0.2.0"
 	},
-	"main": "./lib/jsdx_power.js"
+	"main": "./lib/power.js"
 }
