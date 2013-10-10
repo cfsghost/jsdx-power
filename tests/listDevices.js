@@ -7,5 +7,7 @@ power.init(function() {
 		for (var index in devices) {
 			console.log(devices[index]);
 		}
+
+		process.exit();
 	});
 });
