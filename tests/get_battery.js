@@ -9,7 +9,11 @@ power.init(function() {
 		battery.getPercentage(function(err, value) {
 			console.log('Battery percentage is ' + value + '% now.');
 
-			process.exit();
+			battery.getState(function(err, value) {
+				console.log(Power.Define.DeviceState[value]);
+
+				process.exit();
+			});
 		});
 	});
 });
