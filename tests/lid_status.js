@@ -2,6 +2,7 @@ var Power = require('../');
 
 var power = new Power();
 power.init(function() {
+
 	power.hasLid(function(err, exists) {
 
 		if (exists)
